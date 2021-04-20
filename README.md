@@ -6,7 +6,6 @@ A Plugin that will control people with a minimum distance, it can replace the Fr
 
 # Commands & Permissions
 
-```
 Commands
 - CP 
 - Control T
